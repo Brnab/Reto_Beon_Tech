@@ -1,0 +1,25 @@
+# Excluded folders
+.claude/
+.github/
+
+# Node / Playwright
+node_modules/
+playwright-ui/node_modules/
+playwright-ui/playwright-report/
+playwright-ui/test-results/
+playwright-ui/blob-report/
+playwright-ui/playwright/.cache/
+
+# Java / Maven / Karate
+target/
+karate-api/target/
+*.class
+*.log
+
+# OS & IDEs
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
+
